@@ -22,8 +22,18 @@ This profile README will also display the certifications I've completed.
 
 ---
 
-More certifications coming soon!
-- Power BI Essentials  
-- Tableau Essentials  
+### 🟡 Power BI Essentials  
+**Issued by:** I.T. Vedant  
+**Date:** 29th October 2025  
 
+![Power BI Certificate](powerbiessentials_244_1763881498.jpg)
 
+---
+
+### 🔶 Tableau Essentials  
+**Issued by:** I.T. Vedant  
+**Date:** 17th November 2025  
+
+![Tableau Certificate](tableauessentials_243_1763882.jpg)
+
+--!
