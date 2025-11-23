@@ -16,8 +16,13 @@ This profile README will also display the certifications I've completed.
 
 ---
 
+### 🔵 SQL Mastery  
+**Issued by:** I.T. Vedant  
+![SQL Mastery Certificate](sqlmastery_273_1763881045.jpg)
+
+---
+
 More certifications coming soon!
-- SQL Mastery  
 - Power BI Essentials  
 - Tableau Essentials  
 
