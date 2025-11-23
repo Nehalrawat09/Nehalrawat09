@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Nehal!
 
-<!--
-**Nehalrawat09/Nehalrawat09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
+I'm exploring and learning data analytics — focusing on tools like Excel, SQL, Power BI, Tableau, and Python.  
+This profile README will also display the certifications I've completed.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📜 Certifications
+
+### 🟢 Advanced Excel  
+**Issued by:** I.T. Vedant  
+**Date:** 12th September 2025  
+
+![Advanced Excel Certificate](advancedexcel_247_1763880050.jpg)
+
+---
+
+More certifications coming soon!
+- SQL Mastery  
+- Power BI Essentials  
+- Tableau Essentials  
+
+
