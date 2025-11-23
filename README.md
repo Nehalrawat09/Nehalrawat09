@@ -1,39 +1,56 @@
-# 👋 Hi, I'm Nehal!
+# 👋 Hi, I'm Nehal Rawat!
 
-Welcome to my GitHub profile!  
-I'm exploring and learning data analytics — focusing on tools like Excel, SQL, Power BI, Tableau, and Python.  
-This profile README will also display the certifications I've completed.
-
----
-
-## 📜 Certifications
-
-### 🟢 Advanced Excel  
-**Issued by:** I.T. Vedant  
-**Date:** 12th September 2025  
-
-![Advanced Excel Certificate](advancedexcel_247_1763880050.jpg)
+Aspiring **Data Analyst** passionate about turning raw data into meaningful insights.  
+I work with **Excel, SQL, Power BI, Tableau**, and love building dashboards that explain the story behind the numbers.
 
 ---
 
-### 🔵 SQL Mastery  
-**Issued by:** I.T. Vedant  
-![SQL Mastery Certificate](sqlmastery_273_1763881045.jpg)
+## 🚀 Skills
+
+- **Excel** (Pivot Tables, Dashboards, Power Query)  
+- **Power BI** (DAX, Data Modelling, Interactive Visuals)  
+- **Tableau** (Storytelling, Maps, Filters, Calculated Fields)  
+- **SQL** (Joins, CTEs, Aggregations, Queries)  
+- **Data Cleaning & Transformation**  
+- **Dashboard Design & Visualization**  
 
 ---
 
-### 🟡 Power BI Essentials  
-**Issued by:** I.T. Vedant  
-**Date:** 29th October 2025  
+## 📊 Projects
 
-![Power BI Certificate](powerbiessentials_244_1763881498.jpg)
+### 🔹 Excel Data Analysis Dashboard  
+📍 Interactive dashboard using pivot tables, charts & KPIs  
+👉 https://github.com/Nehalrawat09/Excel-Data-Analysis-Dashboard
+
+### 🔹 Power BI Data Insights Dashboard  
+📍 Business insights dashboard with slicers & DAX  
+👉 https://github.com/Nehalrawat09/PowerBI-Data-Insights-Dashboard
+
+### 🔹 Airbnb Tableau Dashboard  
+📍 Visual analysis of Airbnb listings using Tableau  
+👉 https://github.com/Nehalrawat09/Airbnb-Tableau-Dashboard
+
+More projects coming soon! 🚀
 
 ---
 
-### 🔶 Tableau Essentials  
-**Issued by:** I.T. Vedant  
-**Date:** 17th November 2025  
+## 🎓 Certifications
 
-![Tableau Certificate](tableauessentials_243_1763882.jpg)
+- **Advanced Excel – IT Vedant**  
+- **SQL Mastery – IT Vedant**  
+- **Power BI Essentials – IT Vedant**  
+- **Tableau Essentials – IT Vedant**
+
+(📌 Certificates available in this repository.)
 
 --!
+
+
+
+![Nehal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nehalrawat09&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nehalrawat09&layout=compact&theme=tokyonight)
+
+---
+
+⭐ *Thanks for visiting my profile!*
